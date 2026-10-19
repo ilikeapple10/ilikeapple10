@@ -11,8 +11,8 @@
 <p align="left">
 
 based in Canada, I am currently:
-- 🤖 amateur Discord Bot Developer
-- 📖 Studying Computer Science (3rd year)
+- Developing & Training Artificial intelligence Models
+- 📖 Studying Data Science (3rd Year)
 </p>
 
 ### Tech Stack
